@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,12 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+ */
+
+*
+{
+  font-style:italic;
+  /* url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap'); */
 }
